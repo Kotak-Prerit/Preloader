@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#loading{
+    background: #BCB3C8 url(loader.gif) no-repeat center;
+    height: 100vh;
+    width: 100%;
+    background-size: 20%;
+    position: fixed;
+    z-index: 10;
+}
